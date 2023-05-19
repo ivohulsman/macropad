@@ -1,0 +1,4 @@
+RGB_VAL=128 # Maximum RGB brightness (0-255)
+RGB_BOOT_VAL=32 # RGB Brightness at boot (0-RGB_VAL)
+RGB_HUE=170  # RGB Hue (0-255)
+RGB_SAT=255  # RGB Saturation (0-255)

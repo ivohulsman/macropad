@@ -83,5 +83,3 @@ class KMKKeyboard(_KMKKeyboard):
         brightness=1,
         brightness_step=0.1,
     )
-
-# i2c = io.I2C(scl=board.GP1, sda=board.GP0, frequency=400000)
